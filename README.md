@@ -37,3 +37,10 @@ The file had 200 records.
 
 ->Conclusion
 This was my first task for the CODTECH Internship. I completed it successfully using PySpark in Google Colab. Everything worked well, and I understood how to do simple data analysis using PySpark.
+
+OUTPUT:
+1. <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/b9a57bc4-8758-404e-bada-1b3d35056a4c" />
+
+2. <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/3908d31b-92ca-4ccb-9f6a-9ca575772d78" />
+
+3. <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/69d4447c-e14d-4300-bbff-039a574cc484" />
