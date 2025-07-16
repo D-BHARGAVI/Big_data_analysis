@@ -3,7 +3,7 @@
 "Name"     : D.Bhargavi
 "Intern ID": CT06DG3032
 "Domain"   : Data Analytics
-"Durtion"  : 4 weeks
+"Durtion"  : 6 weeks
 "Mentor"   : Neela Santhosh kumar
 
 Task 1 - Big Data Analysis Using PySpark
